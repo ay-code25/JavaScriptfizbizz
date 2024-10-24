@@ -46,6 +46,7 @@ function fizzBuzz(num){
 fizzBuzz(5);  // Output: 1, 2, Fizz, 4, Buzz
 fizzBuzz(15); // Output: FizzBuzz at 15 and other results
 ```
+![image](https://github.com/user-attachments/assets/1c7ff689-1167-44d8-9d9d-4488e4f64e39)
 
 ## Usage
 
